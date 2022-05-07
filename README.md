@@ -1,0 +1,3 @@
+- 👋 Hi, I’m Myroslav
+- 👀 I’m interested in programing
+- 🌱 I’m currently learning C#
